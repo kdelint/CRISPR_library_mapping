@@ -1,2 +1,15 @@
 # CRISPR_library_mapping
 Tools and files for mapping sequencing reads to CRISPR libraries
+
+The files TKOv3_guide_sequence_2023 (.xlsx and .tsv) are adapted versions of the CRISPR library file from the [Addgene TKOv3 site](https://www.addgene.org/pooled-library/moffat-crispr-knockout-tkov3/)
+
+ In this version, 28 gene symbols that were renamed by the HUGO Gene Nomenclature Committee (HGNC) have been updated. These are:
+ 
+ DEC1 is replaced by DELEC1
+ MARC1 and MARC2 are replaced by MTARC1 and MTARC2
+ MARCH1 to MARCH11 are replaced by MARCHF1 to MARCHF11
+ SEPT1 to SEPT12 and SEPT14 are replaced by SEPTIN1 to SEPTIN 12 and SEPTIN14
+ SEP15 is replaced by SELENOF
+ 
+ Mapping NGS reads to these updated files will avoid excel automatically converting these gene names to dates. 
+ Paper describing the issue: [Mistaken Identifiers: Gene name errors can be introduced inadvertently when using Excel in bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-80)
