@@ -8,7 +8,7 @@ The files TKOv3_guide_sequence_2023 and Brunello_guide_sequence_2023 (both .xlsx
  DEC1 is replaced by DELEC1  
  MARC1 and MARC2 are replaced by MTARC1 and MTARC2  
  MARCH1 to MARCH11 are replaced by MARCHF1 to MARCHF11  
- SEP15 is replaced by SELENOF
+ SEP15 is replaced by SELENOF  
  SEPT1 to SEPT12 and SEPT14 are replaced by SEPTIN1 to SEPTIN 12 and SEPTIN14  
   
  Mapping NGS reads to these updated files will avoid excel automatically converting these gene names to dates. 
