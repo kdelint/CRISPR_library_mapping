@@ -3,7 +3,7 @@ Tools and files for mapping sequencing reads to CRISPR libraries
 
 The files TKOv3_guide_sequence_2023 and Brunello_guide_sequence_2023 (both .xlsx and .tsv) are adapted versions of the CRISPR library file from the Addgene [TKOv3](https://www.addgene.org/pooled-library/moffat-crispr-knockout-tkov3/) and [Brunello](https://www.addgene.org/pooled-library/broadgpp-human-knockout-brunello/) sites
 
- In these versions, 28 gene symbols that were renamed by the HUGO Gene Nomenclature Committee (HGNC) have been updated. These are:
+ In these versions, 28 gene symbols that were renamed by the [HUGO Gene Nomenclature Committee](https://www.genenames.org/) have been updated. These are:
  
  DEC1 is replaced by DELEC1  
  MARC1 and MARC2 are replaced by MTARC1 and MTARC2  
