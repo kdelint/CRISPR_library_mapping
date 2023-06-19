@@ -13,3 +13,5 @@ The files TKOv3_guide_sequence_2023 and Brunello_guide_sequence_2023 (both .xlsx
   
  Mapping NGS reads to these updated files will avoid excel automatically converting these gene names to dates. 
  Paper describing the issue: [Mistaken Identifiers: Gene name errors can be introduced inadvertently when using Excel in bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-80)
+ 
+ Edit 19jun23: Added mTKO and Brie mouse libraries where Marc, March, Sep and Sept genes are renamed
